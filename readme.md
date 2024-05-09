@@ -47,7 +47,7 @@ The "DMG Read More Search" plugin is a custom Gutenberg block that enables edito
 	- Activate the Plugin: Make sure your plugin is active in your WordPress installation.
     - Run the Command: Use the command line to navigate to your WordPress root directory and execute the command:
 ```
-wp dmg-read-more --date-before=2024-05-01 --date-after=2024-04-15
+wp dmg-read-more-search --date-before=2024-05-01 --date-after=2024-04-15
 ```
 
 == Customization ==
