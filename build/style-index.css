@@ -1,0 +1,26 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-dmg-read-more-search {
+  background: #22d3ee;
+  color: #fff;
+  padding: 5px 15px;
+  border-radius: 0.5rem;
+}
+
+.dmg-read-more {
+  color: black !important;
+  text-decoration: none !important;
+}
+.dmg-read-more:hover {
+  color: #818cf8 !important;
+  text-decoration: underline !important;
+}
+
+/*# sourceMappingURL=style-index.css.map*/

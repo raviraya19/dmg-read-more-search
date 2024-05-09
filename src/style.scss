@@ -1,0 +1,23 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-dmg-read-more-search {
+	background: #22d3ee;
+	color: #fff;
+	padding:5px 15px;
+	border-radius: .5rem;
+}
+
+.dmg-read-more {
+	color: black !important;
+	text-decoration: none !important;
+	&:hover {
+		color: #818cf8 !important;
+		text-decoration: underline !important;
+	}
+}
+
