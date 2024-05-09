@@ -55,8 +55,8 @@ wp dmg-read-more-search --date-before=2024-05-01 --date-after=2024-04-15
 This block includes minimal styling by default. For further customization, you can modify the `style.scss` file or add additional styles in your theme's CSS file.
 
 == Developer Build ==
-- Run 'npn install'
-- Run 'npn start' or 'npm build'
+- Run 'npm install'
+- Run 'npm start' or 'npm build'
 
 == Frequently Asked Questions ==
 
